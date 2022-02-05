@@ -40,12 +40,67 @@ We will also use online resources for information sharing, and to promote discus
 Grading Framework
 -----------------
 
-| ACTIVITY | PERCENTAGE |
-| --- | --- |
-| Implementation Puzzle | 10% | {{< br >}}{{< br >}} | Mid-term | 25% |
-| Final Paper | 40% |
-| Class Participation | 25% |
-| **Final Grade** | **100%** 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITY
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Implementation Puzzle
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tropen >}}
+{{< tdopen >}}
+Mid-term
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Paper
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Final Grade**
+{{< tdclose >}}
+{{< tdopen >}}
+**100%**
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Grade Levels
 ------------
@@ -58,7 +113,7 @@ C+= 77–79%  C= 73–76%  C-= 70–72%
 
 D+= 67–69%  D= 63–66%  D-= 60–62%
 
-F= <60%
+F= \<60%
 
 Additional Requirements
 -----------------------
